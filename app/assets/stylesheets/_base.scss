@@ -34,10 +34,10 @@ body {
 }
 
 #clouds {
-  background: image-url('clouds-three.png') repeat-x 55% bottom;
-  background: image-url('clouds-one.png') repeat-x 10% bottom,
-              image-url('clouds-two.png') repeat-x 70% bottom,
-              image-url('clouds-three.png') repeat-x 200% bottom;
+//  background: image-url('clouds-three.png') repeat-x 55% bottom;
+// background: image-url('clouds-one.png') repeat-x 10% bottom,
+//              image-url('clouds-two.png') repeat-x 70% bottom,
+//              image-url('clouds-three.png') repeat-x 200% bottom;
   bottom: 0;
   height: 600px;
   position: fixed;
